@@ -2,6 +2,5 @@
 Функция описана в файле `MatchScreen.gd`.
 
 Тестовый пример:
-
 ![](match_screen.gif)    Пример из игры:
 ![](match_screen_ingame.gif)
