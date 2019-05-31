@@ -4,3 +4,7 @@
 Тестовый пример:
 ![](match_screen.gif)    Пример из игры:
 ![](match_screen_ingame.gif)
+
+## 2. Независящий от time_scale проигрыватель анимаций (AnimationPlayer)
+Применяется для анимаций в реальном времени, если время игрового процесса изменено с помощью `Engine.time_scale`
+Реализован в виде надстройки над стандартным AnimationPlayer, скрипт в файле `TimelessAnimationPlayer.gd`.
